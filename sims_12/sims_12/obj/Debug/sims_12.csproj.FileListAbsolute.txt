@@ -1,0 +1,10 @@
+c:\users\111\source\repos\sims_12\sims_12\bin\Debug\sims_12.exe.config
+c:\users\111\source\repos\sims_12\sims_12\bin\Debug\sims_12.exe
+c:\users\111\source\repos\sims_12\sims_12\bin\Debug\sims_12.pdb
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.csprojResolveAssemblyReference.cache
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.Form1.resources
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.Properties.Resources.resources
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.csproj.GenerateResource.Cache
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.csproj.CoreCompileInputs.cache
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.exe
+c:\users\111\source\repos\sims_12\sims_12\obj\Debug\sims_12.pdb
